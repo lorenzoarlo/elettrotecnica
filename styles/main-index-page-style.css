@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+  .definition-li,
+  .demonstration-li,
+  .myexample-li {
+    display: none;
+  }
+}
+
+.about-wrapper {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.about-wrapper p {
+  margin: 0 auto;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
