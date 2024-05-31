@@ -1,0 +1,43 @@
+/* buttons container */
+
+.buttons-container {
+  display: none;
+}
+
+/* scroll down button */
+
+.scroll-to-bottom-button {
+  display: none;
+}
+
+/* sidebar */
+
+#sidebar-toggle {
+  display: none;
+}
+
+.sidebar {
+  display: none;
+}
+
+.sidebar.active {
+  display: none;
+}
+
+.sidebar-button {
+  display: none;
+}
+
+/* collapsed */
+
+.collapsed {
+  display: block !important;
+}
+
+.hyde {
+  display: block !important;
+}
+
+.body-visibility-icon {
+  display: none;
+}
