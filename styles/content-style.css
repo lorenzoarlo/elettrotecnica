@@ -150,6 +150,13 @@
   place-items: center center;
 }
 
+.image-wrapper.spaced-5 {
+  max-width: max(5%, var(--min-width-img));
+}
+
+.image-wrapper.spaced-10 {
+  max-width: max(10%, var(--min-width-img));
+}
 .image-wrapper.spaced-15 {
   max-width: max(15%, var(--min-width-img));
 }
