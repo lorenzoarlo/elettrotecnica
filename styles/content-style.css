@@ -175,12 +175,26 @@
 .image-wrapper.spaced-40 {
   max-width: max(40%, var(--min-width-img));
 }
+
+.image-wrapper.spaced-45 {
+  max-width: max(40%, var(--min-width-img));
+}
 .image-wrapper.spaced-50 {
   max-width: max(50%, var(--min-width-img));
 }
+
+.image-wrapper.spaced-55 {
+  max-width: max(55%, var(--min-width-img));
+}
+
 .image-wrapper.spaced-60 {
   max-width: max(60%, var(--min-width-img));
 }
+
+.image-wrapper.spaced-65 {
+  max-width: max(65%, var(--min-width-img));
+}
+
 .image-wrapper.spaced-70 {
   max-width: max(70%, var(--min-width-img));
 }
@@ -194,8 +208,13 @@
 .image-wrapper.spaced-85 {
   max-width: max(85%, var(--min-width-img));
 }
+
 .image-wrapper.spaced-90 {
   max-width: max(90%, var(--min-width-img));
+}
+
+.image-wrapper.spaced-95 {
+  max-width: max(95%, var(--min-width-img));
 }
 
 .image-wrapper img {
