@@ -1,11 +1,3 @@
-@media only screen and (max-width: 600px) {
-  .definition-li,
-  .demonstration-li,
-  .myexample-li {
-    display: none;
-  }
-}
-
 .about-wrapper {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
